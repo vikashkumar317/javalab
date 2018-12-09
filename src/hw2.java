@@ -96,8 +96,6 @@ public class hw2 {
 		sort(str1);
 		sort(str2);
 
-		// write(writer1, str1);
-		// write(writer1, str2);
 
 		output(str2, writer, str1);
 
