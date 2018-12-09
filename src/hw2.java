@@ -84,10 +84,9 @@ public class hw2 {
 		String[] str2 = new String[84];
 
 		int i = 0;
-		while (sc.hasNextLine())
-		{
+		while (sc.hasNextLine()) {
 			str1[i++] = sc.nextLine();
-			//System.out.println(str1[i-1]);
+			// System.out.println(str1[i-1]);
 		}
 
 		i = 0;
